@@ -1,0 +1,31 @@
+#!/bin/bash
+
+PRG="${0}"
+
+while [ -h "${PRG}" ]; do
+  ls=`ls -ld "${PRG}"`
+  link=`expr "$ls" : '.*-> \(.*\)$'`
+  if expr "$link" : '/.*' > /dev/null; then
+    PRG="$link"
+  else
+    PRG=`dirname "${PRG}"`/"$link"
+  fi
+done
+
+BASEDIR=`dirname ${PRG}`
+BASEDIR=$BASEDIR/..
+
+VANESSA_CLASSPATH=""
+for i in "${BASEDIR}/lib/"*.jar; do
+  VANESSA_CLASSPATH="${VANESSA_CLASSPATH}:$i"
+done
+
+if test -z ${JAVA_HOME}
+then
+    JAVA_BIN=java
+else
+    JAVA_BIN=${JAVA_HOME}/bin/java
+fi
+
+${JAVA_BIN} -Djava.library.path=$BASEDIR/native/ -cp ${VANESSA_CLASSPATH} com.xenonstack.vanessa.core.Vanessa $BASEDIR/conf/vanessa.properties "${@}"
+

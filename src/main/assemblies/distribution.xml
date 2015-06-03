@@ -28,6 +28,14 @@
         </fileSet>
 
         <fileSet>
+            <directory>../native</directory>
+            <outputDirectory>/native</outputDirectory>
+            <includes>
+                <include>*</include>
+            </includes>
+        </fileSet>
+
+        <fileSet>
             <directory>../configuration/target</directory>
             <outputDirectory>/lib</outputDirectory>
             <includes>
