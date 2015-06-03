@@ -1,0 +1,40 @@
+<project>
+
+    <modelVersion>4.0.0</modelVersion>
+    
+    <parent>
+	    <groupId>com.xenonstack</groupId>
+	    <artifactId>vanessa</artifactId>
+	    <version>1.0.0</version>
+    </parent>
+    
+    <groupId>com.wananchiinfobahn.vanessa</groupId>
+    <artifactId>distribution</artifactId>
+    <version>1.0.0</version>
+    <name>Binary Distribution</name>
+
+    <packaging>pom</packaging>
+
+    <build>
+    	<finalName>${project.parent.artifactId}-${project.version}</finalName>
+    	<plugins>
+                <plugin>
+                    <artifactId>maven-assembly-plugin</artifactId>
+                    <configuration>
+                        <descriptors>
+                            <descriptor>../src/main/assemblies/distribution.xml</descriptor>
+                        </descriptors>
+                    </configuration>
+                    <executions>
+                        <execution>
+                            <phase>package</phase>
+                            <goals>
+                                <goal>single</goal>
+                            </goals>
+                        </execution>
+                    </executions>
+                </plugin>
+    	</plugins>
+    </build>
+
+</project>

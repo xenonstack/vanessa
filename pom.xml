@@ -1,0 +1,19 @@
+<project>
+
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.xenonstack</groupId>
+	<artifactId>vanessa</artifactId>
+	<version>1.0.0</version>
+	<name>XenonStack Vanessa</name>
+
+	<packaging>pom</packaging>
+
+	<modules>
+		<module>configuration</module>
+		<module>web</module>
+		<module>core</module>
+		<module>distribution</module>
+	</modules>
+
+</project>
