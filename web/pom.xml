@@ -24,9 +24,9 @@
 			<version>${scala.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>commons-configuration</groupId>
-			<artifactId>commons-configuration</artifactId>
-			<version>1.10</version>
+			<groupId>com.twitter</groupId>
+			<artifactId>finatra_2.10</artifactId>
+			<version>1.6.0</version>
 		</dependency>
 	</dependencies>
 

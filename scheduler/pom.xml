@@ -9,9 +9,9 @@
 	</parent>
 
 	<groupId>com.xenonstack.vanessa</groupId>
-	<artifactId>core</artifactId>
+	<artifactId>scheduler</artifactId>
 	<version>1.0.0</version>
-	<name>Core</name>
+	<name>Crawl Scheduler</name>
 
 	<properties>
 		<scala.version>2.10.4</scala.version>

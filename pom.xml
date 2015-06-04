@@ -12,6 +12,7 @@
 	<modules>
 		<module>configuration</module>
 		<module>web</module>
+		<module>scheduler</module>
 		<module>core</module>
 		<module>distribution</module>
 	</modules>
