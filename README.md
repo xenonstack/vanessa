@@ -1,6 +1,6 @@
 # Vanessa
 
-Search Engine As A Service powered by [Nutch](http://nutch.apache.org), [Elasticsearch](https://www.elastic.co/products/elasticsearch) and [SolR](http://lucene.apache.org/solr/)
+Search Engine As A Service powered by [Nutch](http://nutch.apache.org) and [SolR](http://lucene.apache.org/solr/)
 
 Current version: `1.0.0`
 
