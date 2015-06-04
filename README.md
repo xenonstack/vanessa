@@ -1,6 +1,6 @@
 # Vanessa
 
-Search Engine As A Service powered by [Nutch](http://nutch.apache.org) and [SolR](http://lucene.apache.org/solr/)
+Search Engine As A Service platform.
 
 Current version: `1.0.0`
 
@@ -14,5 +14,3 @@ A full list of [contributors](https://github.com/xenonstack/vanessa/graphs/contr
 License
 -----------------------------------------------------------
 Copyright 2015 XenonStack, LLP.
-
-Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
