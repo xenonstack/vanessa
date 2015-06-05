@@ -5,12 +5,12 @@
     <parent>
 	    <groupId>com.xenonstack</groupId>
 	    <artifactId>vanessa</artifactId>
-	    <version>1.0.0</version>
+	    <version>0.1.0</version>
     </parent>
     
     <groupId>com.wananchiinfobahn.vanessa</groupId>
     <artifactId>distribution</artifactId>
-    <version>1.0.0</version>
+    <version>0.1.0</version>
     <name>Binary Distribution</name>
 
     <packaging>pom</packaging>

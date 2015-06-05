@@ -4,7 +4,7 @@
 
 	<groupId>com.xenonstack</groupId>
 	<artifactId>vanessa</artifactId>
-	<version>1.0.0</version>
+	<version>0.1.0</version>
 	<name>XenonStack Vanessa</name>
 
 	<packaging>pom</packaging>

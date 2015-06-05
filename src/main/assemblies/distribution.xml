@@ -7,7 +7,10 @@
         <format>zip</format>
         <format>tar.gz</format>
     </formats>
-
+    
+    <!--params>
+        <param name="project.version">0.1.0</param>
+    </params-->
 
     <fileSets>
 
@@ -44,7 +47,7 @@
             </includes>
         </fileSet>
         <fileSet>
-            <directory>../configuration/target/vanessa-configuration-1.0.0-collect-dependencies/vanessa-configuration-1.0.0</directory>
+            <directory>../configuration/target/vanessa-configuration-${project.version}-collect-dependencies/vanessa-configuration-${project.version}</directory>
             <outputDirectory>/lib</outputDirectory>
             <includes>
                 <include>*.jar</include>
@@ -60,7 +63,7 @@
             </includes>
         </fileSet>
         <fileSet>
-            <directory>../web/target/vanessa-web-1.0.0-collect-dependencies/vanessa-web-1.0.0</directory>
+            <directory>../web/target/vanessa-web-${project.version}-collect-dependencies/vanessa-web-${project.version}</directory>
             <outputDirectory>/lib</outputDirectory>
             <includes>
                 <include>*.jar</include>
@@ -76,7 +79,7 @@
             </includes>
         </fileSet>
         <fileSet>
-            <directory>../core/target/vanessa-core-1.0.0-collect-dependencies/vanessa-core-1.0.0</directory>
+            <directory>../core/target/vanessa-core-${project.version}-collect-dependencies/vanessa-core-${project.version}</directory>
             <outputDirectory>/lib</outputDirectory>
             <includes>
                 <include>*.jar</include>
