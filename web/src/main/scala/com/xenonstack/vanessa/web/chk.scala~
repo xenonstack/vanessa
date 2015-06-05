@@ -1,0 +1,12 @@
+
+package com.xenonstack.vanessa.web
+
+import com.twitter.finatra.Controller
+
+class chk extends Controller {
+
+ get("/user") { request =>
+    render.plain("helloo").toFuture
+  }
+
+}

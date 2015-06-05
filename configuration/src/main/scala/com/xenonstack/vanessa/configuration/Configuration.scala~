@@ -19,4 +19,3 @@ class Configuration(){
 	def set(key: String, value: String) = conf.setProperty(key, value)
 
 }
-
