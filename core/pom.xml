@@ -33,6 +33,11 @@
 			<artifactId>finatra_2.10</artifactId>
 			<version>1.6.0</version>
 		</dependency>
+	    <dependency>
+		    <groupId>org.apache.solr</groupId>
+		    <artifactId>solr-solrj</artifactId>
+		    <version>5.1.0</version>
+	    </dependency>
 	</dependencies>
 
 	<build>

@@ -1,3 +1,136 @@
-INF [20150615-15:59:04.703] vanessa: finatra process 9886 started
-INF [20150615-15:59:04.706] vanessa: http server started on port: :8080
-INF [20150615-15:59:05.494] vanessa: admin http server started on port: :8888
+INF [20150615-16:15:26.085] vanessa: finatra process 11185 started
+INF [20150615-16:15:26.088] vanessa: http server started on port: :8080
+INF [20150615-16:15:26.861] vanessa: admin http server started on port: :8888
+INF [20150615-16:15:40.230] vanessa: GET / 200 142ms
+INF [20150615-16:15:40.376] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 2ms
+INF [20150615-16:15:40.465] vanessa: GET /finatra_logo.jpg 200 55ms
+INF [20150615-16:15:45.651] vanessa: GET / 200 2ms
+INF [20150615-16:15:45.725] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 2ms
+INF [20150615-16:15:47.341] vanessa: GET / 200 3ms
+INF [20150615-16:15:47.473] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 2ms
+INF [20150615-16:15:47.476] vanessa: GET /finatra_logo.jpg 304 5ms
+INF [20150615-16:15:47.622] vanessa: GET /favicon.ico 200 3ms
+INF [20150615-16:15:48.137] vanessa: GET / 200 3ms
+INF [20150615-16:15:48.261] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 2ms
+INF [20150615-16:15:48.277] vanessa: GET /finatra_logo.jpg 304 2ms
+INF [20150615-16:17:39.366] vanessa: finatra process 12369 started
+INF [20150615-16:17:39.370] vanessa: http server started on port: :8080
+INF [20150615-16:17:40.116] vanessa: admin http server started on port: :8888
+INF [20150615-16:17:47.717] vanessa: GET / 200 107ms
+INF [20150615-16:17:47.891] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 3ms
+INF [20150615-16:17:47.897] vanessa: GET /finatra_logo.jpg 304 24ms
+INF [20150615-16:17:47.960] vanessa: GET /favicon.ico 304 3ms
+INF [20150615-16:21:20.834] vanessa: finatra process 13408 started
+INF [20150615-16:21:20.838] vanessa: http server started on port: :8080
+INF [20150615-16:21:21.610] vanessa: admin http server started on port: :8888
+INF [20150615-16:21:22.449] vanessa: GET / 200 149ms
+INF [20150615-16:21:22.708] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 2ms
+INF [20150615-16:21:22.710] vanessa: GET /finatra_logo.jpg 304 10ms
+INF [20150615-16:21:22.786] vanessa: GET /favicon.ico 304 2ms
+INF [20150615-16:21:26.096] vanessa: GET /in 200 3ms
+INF [20150615-16:21:29.239] vanessa: GET / 200 3ms
+INF [20150615-16:21:29.299] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 2ms
+INF [20150615-16:21:32.482] vanessa: GET /home 200 3ms
+INF [20150615-16:21:32.543] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 3ms
+INF [20150615-16:21:37.984] vanessa: GET /index.html 200 15ms
+INF [20150615-16:21:38.069] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 2ms
+INF [20150615-16:27:19.680] vanessa: finatra process 14755 started
+INF [20150615-16:27:19.685] vanessa: http server started on port: :8080
+INF [20150615-16:27:20.440] vanessa: admin http server started on port: :8888
+INF [20150615-16:27:49.482] vanessa: finatra process 15710 started
+INF [20150615-16:27:49.485] vanessa: http server started on port: :8080
+INF [20150615-16:27:50.246] vanessa: admin http server started on port: :8888
+INF [20150615-16:27:55.055] vanessa: GET /index.html 304 97ms
+INF [20150615-16:27:55.233] vanessa: GET /finatra_logo.jpg 304 8ms
+INF [20150615-16:27:55.235] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 36ms
+INF [20150615-16:27:55.305] vanessa: GET /favicon.ico 304 3ms
+INF [20150615-16:27:57.259] vanessa: GET / 200 10ms
+INF [20150615-16:27:57.329] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 12ms
+INF [20150615-16:28:05.616] vanessa: GET /index 200 4ms
+INF [20150615-16:28:05.742] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 4ms
+INF [20150615-16:28:09.018] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 2ms
+INF [20150615-16:28:12.572] vanessa: GET / 200 3ms
+INF [20150615-16:28:12.686] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 1ms
+INF [20150615-16:38:02.928] vanessa: finatra process 16987 started
+INF [20150615-16:38:02.932] vanessa: http server started on port: :8080
+INF [20150615-16:38:03.674] vanessa: admin http server started on port: :8888
+INF [20150615-16:38:07.054] vanessa: GET / 200 134ms
+INF [20150615-16:38:07.244] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 3ms
+INF [20150615-16:38:07.251] vanessa: GET /finatra_logo.jpg 304 17ms
+INF [20150615-16:38:07.318] vanessa: GET /favicon.ico 304 2ms
+INF [20150615-16:39:00.815] vanessa: finatra process 18033 started
+INF [20150615-16:39:00.818] vanessa: http server started on port: :8080
+INF [20150615-16:39:01.574] vanessa: admin http server started on port: :8888
+INF [20150615-16:39:05.985] vanessa: GET / 200 109ms
+INF [20150615-16:39:06.128] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 3ms
+INF [20150615-16:39:06.159] vanessa: GET /finatra_logo.jpg 304 11ms
+INF [20150615-16:39:13.530] vanessa: GET /index.html 304 2ms
+INF [20150615-16:39:13.653] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 4ms
+INF [20150615-16:42:05.138] vanessa: finatra process 19080 started
+INF [20150615-16:42:05.142] vanessa: http server started on port: :8080
+INF [20150615-16:42:05.876] vanessa: admin http server started on port: :8888
+INF [20150615-16:42:09.704] vanessa: GET /index.html 200 104ms
+INF [20150615-16:42:09.800] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 19ms
+INF [20150615-16:42:09.886] vanessa: GET /finatra_logo.jpg 304 3ms
+INF [20150615-16:42:09.974] vanessa: GET /favicon.ico 304 4ms
+INF [20150615-16:42:10.780] vanessa: GET /index.html 304 2ms
+INF [20150615-16:42:10.904] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 2ms
+INF [20150615-16:42:10.906] vanessa: GET /finatra_logo.jpg 304 3ms
+INF [20150615-16:42:11.324] vanessa: GET /index.html 304 2ms
+INF [20150615-16:42:11.436] vanessa: GET /finatra_logo.jpg 304 2ms
+INF [20150615-16:42:11.445] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 6ms
+INF [20150615-16:42:15.182] vanessa: GET / 200 8ms
+INF [20150615-16:42:15.313] vanessa: GET /components/bootstrap/dist/css/bootstrap.css 404 3ms
+INF [20150615-16:45:35.997] vanessa: finatra process 20129 started
+INF [20150615-16:45:36.001] vanessa: http server started on port: :8080
+INF [20150615-16:45:36.758] vanessa: admin http server started on port: :8888
+INF [20150615-16:45:40.469] vanessa: GET / 200 125ms
+INF [20150615-16:55:46.553] vanessa: finatra process 21262 started
+INF [20150615-16:55:46.556] vanessa: http server started on port: :8080
+INF [20150615-16:55:47.332] vanessa: admin http server started on port: :8888
+INF [20150615-16:56:01.587] vanessa: GET / 200 135ms
+INF [20150615-16:56:02.226] vanessa: GET /bootstrap.min.css 404 2ms
+INF [20150615-16:56:02.279] vanessa: GET /angular-route.min.js 200 22ms
+INF [20150615-16:56:02.280] vanessa: GET /angular.min.js 200 26ms
+INF [20150615-16:56:02.281] vanessa: GET /vanessa.js 200 24ms
+INF [20150615-16:56:02.284] vanessa: GET /vanessa.css 200 29ms
+INF [20150615-16:56:02.283] vanessa: GET /jquery.min.js 200 25ms
+INF [20150615-16:56:07.532] vanessa: GET /bootstrap.min.css 404 3ms
+INF [20150615-16:56:14.675] vanessa: GET /vanessa.css 304 7ms
+INF [20150615-16:56:18.541] vanessa: GET /angular.min.js 304 2ms
+INF [20150615-16:56:20.835] vanessa: GET /angular-route.min.js 304 2ms
+INF [20150615-16:56:23.144] vanessa: GET /jquery.min.js 304 6ms
+INF [20150615-16:56:25.464] vanessa: GET /vanessa.js 304 2ms
+INF [20150615-16:58:36.359] vanessa: finatra process 22475 started
+INF [20150615-16:58:36.362] vanessa: http server started on port: :8080
+INF [20150615-16:58:37.136] vanessa: admin http server started on port: :8888
+INF [20150615-16:58:40.712] vanessa: GET / 200 115ms
+INF [20150615-16:58:40.792] vanessa: GET /simplex.bootstrap.min.css 404 3ms
+INF [20150615-16:58:40.869] vanessa: GET /angular.min.js 200 50ms
+INF [20150615-16:58:40.872] vanessa: GET /jquery.min.js 200 41ms
+INF [20150615-16:58:40.877] vanessa: GET /vanessa.css 200 59ms
+INF [20150615-16:58:40.896] vanessa: GET /vanessa.js 200 63ms
+INF [20150615-16:58:40.899] vanessa: GET /angular-route.min.js 200 77ms
+INF [20150615-16:58:41.112] vanessa: GET /favicon.ico 304 2ms
+INF [20150615-16:58:44.631] vanessa: GET /simplex.bootstrap.min.css 404 2ms
+INF [20150615-16:59:12.581] vanessa: finatra process 23429 started
+INF [20150615-16:59:12.585] vanessa: http server started on port: :8080
+INF [20150615-16:59:13.414] vanessa: admin http server started on port: :8888
+INF [20150615-16:59:15.615] vanessa: GET / 200 113ms
+INF [20150615-16:59:15.816] vanessa: GET /vanessa.css 200 45ms
+INF [20150615-16:59:15.821] vanessa: GET /vanessa.js 200 16ms
+INF [20150615-16:59:15.823] vanessa: GET /css/simplex.bootstrap.min.css 200 18ms
+INF [20150615-16:59:15.821] vanessa: GET /jquery.min.js 200 28ms
+INF [20150615-16:59:15.831] vanessa: GET /angular.min.js 200 70ms
+INF [20150615-16:59:15.838] vanessa: GET /angular-route.min.js 200 44ms
+INF [20150615-16:59:22.510] vanessa: GET /css/simplex.bootstrap.min.css 304 2ms
+INF [20150615-17:15:44.040] vanessa: finatra process 25243 started
+INF [20150615-17:15:44.044] vanessa: http server started on port: :8080
+INF [20150615-17:15:44.797] vanessa: admin http server started on port: :8888
+INF [20150615-17:15:55.336] vanessa: GET / 200 136ms
+INF [20150615-17:15:55.580] vanessa: GET /vanessa.css 200 65ms
+INF [20150615-17:15:55.575] vanessa: GET /jquery.min.js 200 26ms
+INF [20150615-17:15:55.577] vanessa: GET /vanessa.js 200 37ms
+INF [20150615-17:15:55.571] vanessa: GET /angular-route.min.js 200 40ms
+INF [20150615-17:15:55.574] vanessa: GET /angular.min.js 200 47ms
+INF [20150615-17:15:55.588] vanessa: GET /css/simplex.bootstrap.min.css 200 47ms

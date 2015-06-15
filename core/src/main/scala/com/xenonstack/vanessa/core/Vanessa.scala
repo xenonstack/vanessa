@@ -14,4 +14,10 @@ object Vanessa extends FinatraServer{
     System.setProperty("com.twitter.finatra.config.logNode", "vanessa");
     System.setProperty("com.twitter.finatra.config.port", ":" + conf.get("server.port").toString());
 
+    val assetControl = new AssetControl()
+    val dataControl = new DataControl()
+
+    register(assetControl)
+    register(dataControl)
+
 }
