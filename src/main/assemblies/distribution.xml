@@ -8,10 +8,6 @@
         <format>tar.gz</format>
     </formats>
     
-    <!--params>
-        <param name="project.version">0.1.0</param>
-    </params-->
-
     <fileSets>
 
         <fileSet>
@@ -48,22 +44,6 @@
         </fileSet>
         <fileSet>
             <directory>../configuration/target/vanessa-configuration-${project.version}-collect-dependencies/vanessa-configuration-${project.version}</directory>
-            <outputDirectory>/lib</outputDirectory>
-            <includes>
-                <include>*.jar</include>
-            </includes>
-        </fileSet>
-
-        <!-- WEB -->
-        <fileSet>
-            <directory>../web/target</directory>
-            <outputDirectory>/lib</outputDirectory>
-            <includes>
-                <include>*.jar</include>
-            </includes>
-        </fileSet>
-        <fileSet>
-            <directory>../web/target/vanessa-web-${project.version}-collect-dependencies/vanessa-web-${project.version}</directory>
             <outputDirectory>/lib</outputDirectory>
             <includes>
                 <include>*.jar</include>

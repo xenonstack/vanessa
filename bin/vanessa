@@ -27,5 +27,5 @@ else
     JAVA_BIN=${JAVA_HOME}/bin/java
 fi
 
-${JAVA_BIN} -Djava.library.path=$BASEDIR/native/ -cp ${VANESSA_CLASSPATH} com.xenonstack.vanessa.core.Vanessa $BASEDIR/conf/vanessa.properties "${@}"
+${JAVA_BIN} -Djava.library.path=$BASEDIR/native/ -Dconf.path=$BASEDIR/conf/vanessa.properties -cp ${VANESSA_CLASSPATH} com.xenonstack.vanessa.core.Vanessa "${@}"
 
