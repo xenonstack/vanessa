@@ -8,6 +8,7 @@ Authors
 -----------------------------------------------------------
 * Abhay Arora <https://github.com/abhayaurora>
 * Navita Gogna <https://github.com/navita37>
+* Priyanka Arora <https://github.com/priyanka-arora715>
 
 A full list of [contributors](https://github.com/xenonstack/vanessa/graphs/contributors?type=a) can be found on GitHub.
 
